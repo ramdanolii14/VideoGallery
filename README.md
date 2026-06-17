@@ -1,4 +1,4 @@
-# VideoGallery
+# VideoGallery 
 
 Public video gallery platform with admin-only uploads, user comments/likes, and per-video visibility control.
 
